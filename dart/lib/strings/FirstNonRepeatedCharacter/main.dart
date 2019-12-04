@@ -1,5 +1,7 @@
+// @nodoc
 import 'dart:collection';
 import './strings.dart';
+// @nodoc
 void main() {
   String text = "My high school, the Illinois Mathematics and Science Academy, "
             + "showed me that anything is possible and that you're never too young to think big. "

@@ -1,0 +1,10 @@
+name: dli_dart_algorithms
+description: Simple Algorithms Implemented in Dart
+author: gfleet.games <davidli012345@gmail.com>
+homepage: https://github.com/FriendlyUser/dart-simple-math
+version: 0.1.0
+environment:
+  sdk: '>=2.2.0 <3.0.0'
+
+dev_dependencies:
+  test: ^1.9.2
